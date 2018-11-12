@@ -80,14 +80,3 @@ fetch(url)
 
   // Catch possible errors
   .catch(error => console.error(error));
-
-/*function setChoices() {
-    return (optionList.innerHTML = `
-    <li class="item">
-    <input value="True" name="option" type="radio">
-    <p>True</p>
-    
-    <li class="item">
-    <input value="False" name="option" type="radio">
-    <p>False</p>`);
-  }*/

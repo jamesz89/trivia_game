@@ -1,7 +1,13 @@
-html {
+body {
   font-family: sans-serif;
   background: #ffc600;
 }
+
+.container {
+  max-width: 900px;
+  margin: auto;
+}
+
 h1.title {
   margin-top: 5rem;
   font-size: 3rem;
